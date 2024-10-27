@@ -1,0 +1,41 @@
+
+  .table-dark td {
+    height: 60px;
+    vertical-align: middle;
+
+
+}
+
+table{
+    max-width: 100% !important;
+}
+
+body{
+    max-width: 100%;
+}
+.table-dark td {
+    vertical-align: top; 
+    text-align: left; 
+}
+.table-primary{
+    text-align: center; 
+    text-align: center; 
+}
+.table-dark {
+    height: 60px;
+    font-weight: bold
+  }
+.input-group-text{
+    display: inline-block;
+    width: 70% !important;
+    min-height: 18px;
+}
+
+.btn-outline-info{
+    font-size: 20px;
+}
+.table-dark button{
+    height: 60px;
+    font-size: 22px;
+    font-weight: bold
+   }

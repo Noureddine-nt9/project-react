@@ -1,0 +1,17 @@
+#lg{
+    width: 65px !important;
+    height: 65px !important;
+    border-radius: 50% !important;
+  }
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+  .navbar-text {
+    font-weight: bold !important;
+    font-size: 20px !important;
+    width: 200px !important;
+    margin: 10px 0px !important;
+    display: inline !important;
+    line-height: 65px !important;
+}
